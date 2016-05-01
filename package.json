@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "debug": "^2.1.0",
-    "node-stringprep": "*",
+    "node-stringprep": "git://github.com/PSeitz/node-stringprep",
     "node-xmpp-client": "git://github.com/PSeitz/node-xmpp-client",
     "node-xmpp-core": "git://github.com/PSeitz/node-xmpp-core",
     "node-xmpp-stanza" : "*",
